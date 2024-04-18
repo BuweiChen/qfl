@@ -1,4 +1,4 @@
-Q-learning for NFL Strategy
+## Q-learning for NFL Strategy
 
 NFL Strategy is a football (North American gridiron football) simulation game from the 1970s. The player on offense chooses one of 34 plays; the player on defense simultaneously chooses one of 12 defensive plays. The outcome of the play is determined by the combination of plays selected and an element of chance.
 
