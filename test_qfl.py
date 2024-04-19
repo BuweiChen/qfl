@@ -47,3 +47,4 @@ if __name__ == "__main__":
         print("WARNING: Q-learning ran for", t, "seconds; allowed", limit)
     
     print(model.simulate(policy, n))
+
